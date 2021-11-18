@@ -7,7 +7,7 @@ else
 end
 
 gem "rake"
-gem "puppet", puppetversion
+gem "puppet", ">= 6.25.1", puppetversion
 gem "puppet-lint"
 gem "hiera-puppet-helper"
 gem "puppetlabs_spec_helper"
