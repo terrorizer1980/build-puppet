@@ -25,3 +25,4 @@ pyhamcrest==1.9.0
 simplejson==3.16.0  # pyup: ignore
 wsgiref==0.1.2
 zope.interface==4.6.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
