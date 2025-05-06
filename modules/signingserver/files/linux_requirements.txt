@@ -1,5 +1,5 @@
 # python_version: 27
-gevent==1.4.0
+gevent==25.4.1
 WebOb==1.8.5
 poster==0.8.1
 IPy==1.00
@@ -9,7 +9,7 @@ flufl.lock==2.4.1  # pyup: <3.0
 pexpect==4.7.0
 # widevine: osx cant build cryptography and doesnt need these!
 ## install six and setuptools before cryptography
-setuptools==41.6.0
+setuptools==78.1.1
 six==1.12.0
 argparse==1.4.0
 enum34==1.1.6
